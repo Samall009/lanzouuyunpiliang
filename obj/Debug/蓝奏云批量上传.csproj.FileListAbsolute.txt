@@ -1,0 +1,12 @@
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\bin\Debug\蓝奏云批量上传.exe.config
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\bin\Debug\蓝奏云批量上传.exe
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\bin\Debug\蓝奏云批量上传.pdb
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.csprojAssemblyReference.cache
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.Form1.resources
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.Properties.Resources.resources
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.csproj.GenerateResource.cache
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.exe
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.pdb
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\bin\Debug\Newtonsoft.Json.dll
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\bin\Debug\Newtonsoft.Json.xml
+C:\Users\久伴丶\source\repos\蓝奏云批量上传\obj\Debug\蓝奏云批量上传.csproj.CopyComplete
